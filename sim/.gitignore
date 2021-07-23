@@ -1,0 +1,9 @@
+sim
+fft_*
+venv
+stimulus_files
+*.ip_user_files
+*.cache
+*.hw
+*.gen
+*.xpr

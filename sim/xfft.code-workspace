@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "xfft"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "venv/bin/python"
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": [
+
+			{
+				"name": "test_xFFT",
+				"type": "python",
+				"request": "launch",
+				"program": "xFFT_generator.py",
+				"args": [],
+				"console": "integratedTerminal"
+			}
+		]
+	}
+}
