@@ -1,23 +1,4 @@
 `timescale 1ns / 1ps
-//-----------------------------------------------------------------------------
-// Title         : xFFT Wrapper
-// Project       : iota
-//-----------------------------------------------------------------------------
-// File          : xFFT_wrapper.sv
-// Author        : Masoud Shahshahani (mshahshahani@jmalogicless.com)
-// Created       : 04.05.2021
-// Last modified : 04.05.2021
-//-----------------------------------------------------------------------------
-// Description :
-//
-//-----------------------------------------------------------------------------
-// Copyright (c) 2019 by JMA logicless This model is the confidential and
-// proprietary property of JMA logicless and the possession or use of this
-// file requires a written license from JMA logicless.
-//------------------------------------------------------------------------------
-// Modification history :
-//
-//-----------------------------------------------------------------------------
 
 `include "../../../usr-ip-lib/common_hdl/interfaces/axis_intf.svh"
 
